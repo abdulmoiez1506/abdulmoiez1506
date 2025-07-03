@@ -87,5 +87,4 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-<!-- Feel free to fork this README template and adapt it for your profile -->
  
